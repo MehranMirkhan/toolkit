@@ -48,3 +48,6 @@
 - [Poke](https://poke.digital/)
 - [Prometheus](https://prometheus.io/)
 - [Grafana](https://grafana.com/)
+
+# DB
+- [KSQL](https://ksqldb.io/): The database purpose-built for stream processing applications
