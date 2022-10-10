@@ -5,6 +5,7 @@
 - [Nexus](https://hub.docker.com/r/sonatype/nexus3/) - Repository Management
 - [Jenkins](https://www.jenkins.io/) - CI/CD
 - [Kong](https://konghq.com/) - Microservices Gateway
+  - [Konga](https://github.com/pantsel/konga) - Kong GUI
 - [Prometheus](https://hub.docker.com/r/prom/prometheus) - Collects Metrics for Monitoring
 - [Grafana](https://hub.docker.com/r/grafana/grafana/) - Monitoring Visualizer
 
